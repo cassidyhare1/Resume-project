@@ -1,0 +1,44 @@
+/* COLOR PALLETTE
+   Dusty Pink- #CC8B86
+   Cream - #F9EA1
+   Redish- #7D4F50
+   Dark Vanilla- #D1BE9C
+   Light Grey -#AA998F 
+   */
+
+
+
+/*GLOBAL STYLES*/
+a{
+    color:#7D4F50;
+
+}
+a:hover{
+    text-decoration:none;
+    color: white;
+}
+
+/*HEADER AND FOOTTER*/
+header, footer {
+    background:#CC8B86;
+    color: whitesmoke;
+
+}
+header h1, header h2 {
+    color: white;
+}
+
+/*WORK EXPERIENCE*/
+.work {
+    background: #F9EAE1;
+
+}
+
+/*EDUCATION*/
+.education {
+    background:#D1BE9C;
+
+}
+
+
+
