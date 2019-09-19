@@ -1,0 +1,102 @@
+/* COLOR PALLETTE
+   Dusty Pink- #CC8B86
+   Cream - #F9EA1
+   Redish- #7D4F50
+   Dark Vanilla- #D1BE9C
+   Light Grey -#AA998F 
+   */
+
+
+
+/*GLOBAL STYLES*/
+a{
+    color:#7D4F50;
+}
+body {
+    font-family: 'Fjalla One', sans-serif;
+    margin:0;
+
+}
+h1 {
+    font-family: 'Berkshire Swash', cursive;
+    letter-spacing: 1px;
+
+}
+h2 {
+    margin-top: 0;
+}
+a:hover{
+    text-decoration:none;
+    color: white;
+}
+h1, h2, h3{
+    letter-spacing: 2px;
+}
+.content-wrap{
+    max-width:  950px;
+    margin:0 auto;
+    padding: 50px;
+    overflow: auto;
+
+}
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/*HEADER AND FOOTTER*/
+
+header, footer {
+    background:#CC8B86;
+    color: whitesmoke;
+
+}
+/*HEADER*/
+
+header h1, header h2 {
+    color: white;
+    margin: 0;
+}
+.profile-img {
+    
+    border-radius: 50%;
+    
+
+}
+.col-narrow {
+    width: 30%;
+    float: left;
+
+}
+.col-wide {
+    width:70%;
+    float: left;
+    padding-left: 20px;
+}
+
+/*FOOOTER*/
+footer {
+    text-align: center;
+}
+.contact-info a {
+    padding:10px;
+    display: inline-block;
+}
+
+
+/*WORK EXPERIENCE*/
+.work {
+    background: #F9EAE1;
+
+}
+
+/*EDUCATION*/
+.education {
+    background:#D1BE9C;
+
+}
+
+
+
